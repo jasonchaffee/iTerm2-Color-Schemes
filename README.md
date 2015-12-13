@@ -1,7 +1,5 @@
 #iTerm Color Schemes#
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/mbadolato/)
-
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
 - [Contribute](#contribute)
@@ -11,6 +9,7 @@
   - [X11 Installation](#x11-installation)
   - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
+  - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ##Intro##
@@ -37,7 +36,7 @@ Have a great iTerm theme? Send it to me via a Pull Request! To export your theme
 * Click on Export
 * Save the .itermcolors file
 
-To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory. 
+To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory.
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
@@ -78,6 +77,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/atom.png)
 
+###Atom One Light###
+
+![Screenshot](screenshots/atom_one_light.png)
+
+###Batman###
+
+![Screenshot](screenshots/batman.png)
+
 ###Belafonte Day###
 
 ![Screenshot](screenshots/belafonte_day.png)
@@ -97,6 +104,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Borland###
 
 ![Screenshot](screenshots/borland.png)
+
+###Bright Lights###
+
+![Screenshot](screenshots/bright_lights.png)
 
 ###Broadcast###
 
@@ -154,9 +165,17 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+###DotGov###
+
+![Screenshot](screenshots/dot_gov.png)
+
 ###Dracula###
 
 ![Screenshot](screenshots/dracula.png)
+
+###Duotone Dark###
+
+![Screenshot](screenshots/duotone_dark.png)
 
 ###Earthsong###
 
@@ -165,6 +184,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Elemental###
 
 ![Screenshot](screenshots/elemental.png)
+
+###ENCOM###
+
+![Screenshot](screenshots/encom.png)
 
 ###Espresso###
 
@@ -190,6 +213,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/flatland.png)
 
+###Floraverse###
+
+![Screenshot](screenshots/floraverse.png)
+
 ###FrontEndDelight###
 
 ![Screenshot](screenshots/front_end_delight.png)
@@ -205,6 +232,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Github###
 
 ![Screenshot](screenshots/github.png)
+
+##Glacier###
+
+![Screenshot](screenshots/glacier.png)
 
 ###Grape###
 
@@ -270,6 +301,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/jellybeans.png)
 
+###JetBrains Darcula###
+
+![Screenshot](screenshots/jetbrains_darcula.png)
+
 ###Kibble###
 
 ![Screenshot](screenshots/kibble.png)
@@ -294,13 +329,21 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/liquid_carbon_transparent_inverse.png)
 
-###Mathias###
-
-![Screenshot](screenshots/mathias.png)
-
 ###Man Page###
 
 ![Screenshot](screenshots/man_page.png)
+
+###Material###
+
+![Screenshot](screenshots/material.png)
+
+###MaterialDark###
+
+![Screenshot](screenshots/material_dark.png)
+
+###Mathias###
+
+![Screenshot](screenshots/mathias.png)
 
 ###Medallion###
 
@@ -347,19 +390,24 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/novel.png)
 
+###Obsidian###
+
+![Screenshot](screenshots/obsidian.png)
+
 ###Ocean###
 
 ![Screenshot](screenshots/ocean.png)
 
-###Obsidian###
 
-![Screenshot](screenshots/obsidian.png)
+###OceanicMaterial###
+
+![Screenshot](screenshots/oceanic_material.png)
 
 ###Ollie###
 
 ![Screenshot](screenshots/ollie.png)
 
-###Paraiso Dark###
+###Parasio Dark###
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
@@ -374,6 +422,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Pencil Light###
 
 ![Screenshot](screenshots/pencil_light.png)
+
+###Piatto Light###
+
+![Screenshot](screenshots/piatto_light.png)
 
 ###Pnevma###
 
@@ -463,6 +515,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/spacedust.png)
 
+###Spiderman###
+
+![Screenshot](screenshots/spiderman.png)
+
 ###Spring###
 
 ![Screenshot](screenshots/spring.png)
@@ -490,6 +546,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Thayer Bright###
 
 ![Screenshot](screenshots/thayer_bright.png)
+
+###The Hulk###
+
+![Screenshot](screenshots/the_hulk.png)
 
 ###Tomorrow###
 
@@ -576,7 +636,7 @@ The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 
 The theme Molokai was based on the [vim colorscheme](https://github.com/tomasr/molokai) of the same name.
 
-The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
+The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
 
@@ -640,7 +700,7 @@ The Pencil Dark and Pencil Light themes were created by [mattly](https://github.
 
 The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-terminal)
 
-The Atom, Brogrammer, and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
+The Atom, Brogrammer, Glacier and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
 
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
@@ -689,6 +749,28 @@ The Borland theme was created by [delip](https://gist.github.com/delip/9e16c606d
 The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
 
 The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool/)
+
+The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://github.com/pyrophos)
+
+The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
+
+The Floraverse theme was created by [papayakitty](http://floraverse.com/)
+
+The Material and MaterialDark themes were created by [stoeffel](https://github.com/stoeffel/material-iterm)
+
+The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
+
+The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
+
+The Piatto Light theme was created by [kovv](https://github.com/kovv)
+
+The DotGov theme was inspired by the color palette used in the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/visual-style/)
+
+The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on [simurai](https://github.com/simurai)'s [duotone-dark](https://github.com/simurai/duotone-dark-syntax) Atom theme.
+
+The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
+
+The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -758,7 +840,7 @@ To install under the [X Window System](http://www.x.org/):
 
 ###Terminator color schemes###
 
-Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!  
+Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!
 
 At a minimum, this is all you need. You can customize the fonts and other aspects as well, if you wish. See the Terminator documentation for more details.
 
@@ -799,6 +881,9 @@ Copy the themes from the `konsole` directory to `$HOME/.config/konsole`, restart
 
 If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
 
+###Terminal color schemes###
+Just double click on selected theme in `terminal` directory
+
 ###Previewing color schemes###
 
 [preview.rb](tools/preview.rb) is a simple script that allows you to preview
@@ -822,4 +907,3 @@ tools/preview.rb schemes/*
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-30661340-2/mbadolato/iTerm2-Color-Schemes?pixel)](https://github.com/igrigorik/ga-beacon)
-
